@@ -1,0 +1,125 @@
+
+html {
+ 
+    font-size: 10px;
+  }
+  
+  body {
+  
+   font-family:Helvetica;
+    font-size: 1.6rem;
+    line-height: 1.5;
+    text-align: center;
+    color: #333;
+    margin: 0;
+  }
+  
+  h1 {
+    font-size: 40px;
+    margin-bottom: 0;
+    font-weight:bolder;
+    font-style:italic;
+    text-decoration:underline;
+    
+  }
+  
+    h1 {
+      font-size: 3.5rem;
+      line-height: 1.2;
+    }
+  
+  
+  h2 {
+    font-size: 3.25rem;
+    
+  }
+  
+  
+  #main {
+    margin: 30px 8px;
+    padding: 15px;
+    border-radius: 5px;
+    background: #eee;
+  
+  }
+  
+  #image {
+    width: 100%;
+  height: auto;
+  max-width: 625px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  }
+  
+  #img-div {
+    background: white;
+    padding:auto;
+    margin:0 auto;
+  }
+  
+  #img-caption {
+    margin: 15px 0 5px 0;
+  }
+  
+    #img-caption {
+      font-size: 1.4rem;
+      font-style:italic;
+      font-weight:bold;
+    }
+  
+  #headline {
+    margin: 50px 0;
+    text-align: center;
+    font-weight:bold;
+    text-decoration:underline;
+  }
+  
+  ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+  }
+  
+  li {
+    margin: 16px 0;
+  }
+  
+  blockquote {
+    font-style: italic;
+    max-width: 545px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    font-weight:bold;
+    font-size:20px;
+  }
+  article{
+      border:2px inset black;
+      margin: 10px 50px;
+      padding: 20px;
+      text-align: center;
+      font-style: italic;
+      font-weight: bold;
+  }
+  footer{
+      background-color:rgb(223, 219, 219);
+      color: black;
+      height: auto;
+      text-align: center;
+      padding: auto;
+      font-size: 22px;
+      font-style: oblique;
+      font-weight: bold;
+  }
+  
+  a{
+      color:black;
+  }
+  a:hover{
+      border-bottom: 1px solid;
+      background-color: white;
+  }
+  #tribute-link{
+    color:black;
+  }
