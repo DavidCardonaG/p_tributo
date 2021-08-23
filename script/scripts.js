@@ -22,13 +22,13 @@ const loadList = (data) => {
 localStorage.setItem('biografia', JSON.stringify(data));
 
 
-// function confirm(){
-//     let res = ''
-//     if(res == true){
-//         return true;
-//     }else{
-//         return false;
-//     }
-// }
+function confirm(){
+    let res = ''
+    if(res == true){
+        return true;
+    }else{
+        return false;
+    }
+}
 
 
