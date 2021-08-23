@@ -27,6 +27,9 @@ html {
       font-size: 3.5rem;
       line-height: 1.2;
     }
+  p{
+    font-size:2rem;
+  }
   
   
   h2 {
@@ -63,7 +66,7 @@ html {
   }
   
     #img-caption {
-      font-size: 1.4rem;
+      font-size: 2rem;
       font-style:italic;
       font-weight:bold;
     }
@@ -84,6 +87,9 @@ html {
   
   li {
     margin: 16px 0;
+    font-size:1.8rem;
+    font-style: italic;
+    font-weight: bold;
   }
   
   blockquote {
